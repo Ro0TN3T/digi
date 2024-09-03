@@ -1,5 +1,5 @@
 # whatsapp
-Bo whatsapp Digifazz 
+Bot WhatsApp Digifazz 
 <center><img src="image/menu.jpg" width=300></center>
 
 ### Request
@@ -11,7 +11,7 @@ nodejs & npm
 ```bash
 git clone https://github.com/Ro0TN3T/digi && cd digi && bash install.sh
 ```
-
+<center><img src="image/main.png" width=300></center>
 
 ### Edit 
 
