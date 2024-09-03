@@ -1,5 +1,6 @@
 # whatsapp
 Bot WhatsApp Digifazz 
+Prabayar & Pascabayar
 <center><img src="image/menu.jpg" width=300></center>
 
 ### Request
