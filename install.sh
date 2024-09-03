@@ -7,5 +7,6 @@ apt-get install yarn -y
 clear
 yarn
 clear
-node index.js
+echo "installer sukses"
+echo "Run : node index.js"
 
