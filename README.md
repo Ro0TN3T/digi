@@ -7,7 +7,7 @@ Bo whatsapp Digifazz
 nodejs & npm
 ```
 
-### Auto Install 
+### Auto Install Termux
 ```bash
 git clone https://github.com/Ro0TN3T/digi && cd digi && bash install.sh
 ```
