@@ -13,9 +13,9 @@ git clone https://github.com/Ro0TN3T/digi && cd digi && bash install.sh
 ```
 
 
-### Edit
+### Edit Pengaturan/Admin/settings.js
 ```bash
-Pengaturan/Admin/settings.js
+
 
 //________[ PERLENGKAPAN ]________//
 global.owner = '628xxxxxxxx' //Ganti Jadi No Lu
@@ -34,9 +34,9 @@ global.sessionName = `NcPulsa`
 global.anticall = false //anti telpon di wa false = mati true = aktif
 ```
 
-### SET API KEY
+### EDIT Pengaturan/function/apikey.js
 ```bash
-Pengaturan/function/apikey.js
+
 
 // API DIGIFLAZZ PRODUCTION
 const digiuser = 'xxxxxxxx' // username digi
