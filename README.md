@@ -13,7 +13,9 @@ git clone https://github.com/Ro0TN3T/digi && cd digi && bash install.sh
 ```
 
 
-### Edit Pengaturan/Admin/settings.js
+### Edit 
+
+Pengaturan/Admin/settings.js
 ```bash
 
 
@@ -34,7 +36,9 @@ global.sessionName = `NcPulsa`
 global.anticall = false //anti telpon di wa false = mati true = aktif
 ```
 
-### EDIT Pengaturan/function/apikey.js
+### EDIT 
+
+Pengaturan/function/apikey.js
 ```bash
 
 
@@ -60,4 +64,7 @@ const fee_cus = '1'; //	1 fee ditanggung customer 2 fee ditanggung merchant
 // API ARIE PULSA UNTUK CEK NICKNAME GAME DAN LISENSI
 const ariekey = 'xxxxxxxx' // API KEY
 ```
-
+### Run
+```bash
+node index.js
+```
