@@ -71,8 +71,12 @@ node index.js
 
 ### api
 
-[digiflazz.com](https://digiflazz.com/)[paydisini.co.id](https://web.paydisini.co.id)
+[digiflazz.com](https://digiflazz.com/)
+
+[paydisini.co.id](https://web.paydisini.co.id)
 
 ### Lisensi
 
-[NcPulsa](https://ncpulsa.com) [Ariepulsa](https://ariepulsa.com)
+[NcPulsa](https://ncpulsa.com)  
+
+[Ariepulsa](https://ariepulsa.com)
