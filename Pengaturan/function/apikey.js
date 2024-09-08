@@ -5,9 +5,9 @@ const nomorKu = '628xxxxxxxx@s.whatsapp.net' //GANTI NOMORMU
 
 // SETTING KEUNTUNGAN MEMBER BERDASARKAN PERSEN (%)
 const prmember = '1'
-const prgold = '1'
-const prplatinum = '1'
-const prpartner = '1'
+const prgold = '0,5'
+const prplatinum = '0,3'
+const prpartner = '0,2'
 
 // API PAYDISINI
 const keypaydis = 'xxxxxxxx'
@@ -17,8 +17,8 @@ const batas_time = '300'; //Batas waktu pembayaran (detik) minimal 1800 30 menit
 const fee_owner = 350; //Fee Untuk Kamu Buat Meringankan Biaya Penarikan
 const fee_cus = '1'; //	1 fee ditanggung customer 2 fee ditanggung merchant
 
-// API ARIE PULSA UNTUK CEK NICKNAME GAME DAN LISENSI
-const ariekey = 'xxxxxxxx' // API KEY https://ariepulsa.com
+// API ARIE PULSA UNTUK CEK NICKNAME GAME
+const ariekey = 'xxxxxxxx' // KOSONGKAN JIKA TIDAK ADA
 
 module.exports = {
     digiuser,
