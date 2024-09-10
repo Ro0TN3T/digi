@@ -71,6 +71,10 @@ node index.js
 ```
 𝐅𝐈𝐓𝐔𝐑 𝐌𝐄𝐌𝐁𝐄𝐑
 
+*```bash
+menu
+```**
+
 • Cek Profile
 
 • Deposit Otomatis (via paydisini)
@@ -92,6 +96,10 @@ node index.js
 • Pembelian Otomatis
 
 𝐅𝐈𝐓𝐔𝐑 𝐎𝐖𝐍𝐄𝐑
+
+```bash
+adminmenu
+```
 
 • Cek Saldo Digiflaz
 
@@ -115,7 +123,7 @@ node index.js
 
 • Set Harga
 
-• Rekap Transaksi ( Melihat Riwayat Transaksi )
+• Rekap Transaksi
 
 ### api
 
