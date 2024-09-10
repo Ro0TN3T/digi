@@ -70,29 +70,51 @@ const ariekey = 'xxxxxxxx' // API KEY
 node index.js
 ```
 𝐅𝐈𝐓𝐔𝐑 𝐌𝐄𝐌𝐁𝐄𝐑
+
 • Cek Profile
+
 • Deposit Otomatis (via paydisini)
+
 • Deposit Manual (acc owner)
+
 • Beli
+
 • Cek Produk
+
 • Cek Status Pembelian
+
 • Cek Status Produk
+
 • List Produk
+
 • TopUp
+
 • Pembelian Otomatis
 
 𝐅𝐈𝐓𝐔𝐑 𝐎𝐖𝐍𝐄𝐑
+
 • Cek Saldo Digiflaz
+
 • Cek Saldo Paydisini 
+
 • Cek saldo medan pedia 
+
 • Cek saldo Otp Web
+
 • Daftar User
+
 • Status Pembelian
+
 • Min Deposit Member
+
 • Add Deposit Member
+
 • Mutasi Saldo
+
 • Set Keuntungan
+
 • Set Harga
+
 • Rekap Transaksi ( Melihat Riwayat Transaksi )
 
 ### api
