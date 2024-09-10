@@ -71,9 +71,7 @@ node index.js
 ```
 𝐅𝐈𝐓𝐔𝐑 𝐌𝐄𝐌𝐁𝐄𝐑
 
-*```bash
-menu
-```**
+
 
 • Cek Profile
 
@@ -97,9 +95,7 @@ menu
 
 𝐅𝐈𝐓𝐔𝐑 𝐎𝐖𝐍𝐄𝐑
 
-```bash
-adminmenu
-```
+
 
 • Cek Saldo Digiflaz
 
