@@ -70,8 +70,6 @@ const ariekey = 'xxxxxxxx' // API KEY
 node index.js
 ```
 𝐅𝐈𝐓𝐔𝐑 𝐌𝐄𝐌𝐁𝐄𝐑
-• Order Otp All Apk (Nokos)
-• Order Suntik Sosmed (SMM)
 • Cek Profile
 • Deposit Otomatis (via paydisini)
 • Deposit Manual (acc owner)
@@ -84,7 +82,6 @@ node index.js
 • Pembelian Otomatis
 
 𝐅𝐈𝐓𝐔𝐑 𝐎𝐖𝐍𝐄𝐑
-• Provider SMM ( MEDANPEDIA ) setting url dll langsung di setting.js ( mudah ) 
 • Cek Saldo Digiflaz
 • Cek Saldo Paydisini 
 • Cek saldo medan pedia 
