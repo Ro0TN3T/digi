@@ -1,4 +1,5 @@
 // API DIGIFLAZZ PRODUCTION
+//wajib weblist ip address di digi
 const digiuser = 'xxxxxxxx' // username digi
 const digiapi = 'xxxxxxxx' // product key digi
 const nomorKu = '628xxxxxxxx@s.whatsapp.net' //GANTI NOMORMU
