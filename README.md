@@ -70,7 +70,10 @@ const ariekey = 'xxxxxxxx' // API KEY
 node index.js
 ```
 𝐅𝐈𝐓𝐔𝐑 𝐌𝐄𝐌𝐁𝐄𝐑
-
+### PENGGUNAAN
+```bash
+menu
+```
 
 
 • Cek Profile
@@ -95,15 +98,14 @@ node index.js
 
 𝐅𝐈𝐓𝐔𝐑 𝐎𝐖𝐍𝐄𝐑
 
-
+### PENGGUNAAN
+```bash
+adminmenu
+```
 
 • Cek Saldo Digiflaz
 
 • Cek Saldo Paydisini 
-
-• Cek saldo medan pedia 
-
-• Cek saldo Otp Web
 
 • Daftar User
 
